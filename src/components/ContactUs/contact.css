@@ -1,0 +1,32 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.contact-content {
+    flex: 1;
+    padding: 40px;
+}
+
+.contact-content h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.contact-content p {
+    margin-bottom: 16px;
+}
+
+.contact-info {
+    margin-top: 40px;
+}
+
+.contact-info h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin-bottom: 8px;
+}
